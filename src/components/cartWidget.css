@@ -1,0 +1,5 @@
+.cartWidget{
+    display: flex;
+    align-Items: center;
+    gap: 5px;
+}
