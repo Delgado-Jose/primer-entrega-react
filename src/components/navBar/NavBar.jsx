@@ -1,12 +1,12 @@
 import React from 'react';
-import CartWidget from './cartWidget.jsx';
+import CartWidget from '../cartWidget/CartWidget.jsx';
 import './navBar.css';
 
 const NavBar = () => {
     return (
         <nav className="navBar">
             <div className="logo">
-                <h1>Mi e-Commerce</h1>
+                <h1>Guitar Store</h1>
             </div>
             <ul className="navLinks">
                 <li><a href="#">Inicio</a></li>

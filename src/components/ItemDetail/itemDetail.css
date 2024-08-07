@@ -1,0 +1,3 @@
+/*<p>Precio: USD {producto.precio}</p>
+        <p>En Stock: {producto.stock}</p>
+        <ItemCount inicio={1} stock={producto.stock}/>*/
